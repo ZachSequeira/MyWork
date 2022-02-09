@@ -1,0 +1,3 @@
+>Open the VS Studio Solution File.
+>Execute the file.
+>Follow the instructions in the terminal and have fun!

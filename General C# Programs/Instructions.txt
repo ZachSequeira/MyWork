@@ -1,0 +1,3 @@
+>Open the VS Studio Solution File.
+>Each C# Program in the solution file needs to be uncommented and run separately.
+>Since there can be only one main method in a solution file, Every other program needs to be commented.
