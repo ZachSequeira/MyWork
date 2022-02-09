@@ -1,0 +1,16 @@
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\bin\Debug\net5.0\Guess The Number.exe
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\bin\Debug\net5.0\Guess The Number.deps.json
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\bin\Debug\net5.0\Guess The Number.runtimeconfig.json
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\bin\Debug\net5.0\Guess The Number.runtimeconfig.dev.json
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\bin\Debug\net5.0\Guess The Number.dll
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\bin\Debug\net5.0\ref\Guess The Number.dll
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\bin\Debug\net5.0\Guess The Number.pdb
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\obj\Debug\net5.0\Guess The Number.csproj.AssemblyReference.cache
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\obj\Debug\net5.0\Guess The Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\obj\Debug\net5.0\Guess The Number.AssemblyInfoInputs.cache
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\obj\Debug\net5.0\Guess The Number.AssemblyInfo.cs
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\obj\Debug\net5.0\Guess The Number.csproj.CoreCompileInputs.cache
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\obj\Debug\net5.0\Guess The Number.dll
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\obj\Debug\net5.0\ref\Guess The Number.dll
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\obj\Debug\net5.0\Guess The Number.pdb
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\obj\Debug\net5.0\Guess The Number.genruntimeconfig.cache

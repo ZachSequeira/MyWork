@@ -1,0 +1,32 @@
+F:\CSHARP-BSP\Other_Programs\Other_Programs\obj\Debug\net5.0\Other_Programs.csproj.AssemblyReference.cache
+F:\CSHARP-BSP\Other_Programs\Other_Programs\obj\Debug\net5.0\Other_Programs.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSHARP-BSP\Other_Programs\Other_Programs\obj\Debug\net5.0\Other_Programs.AssemblyInfoInputs.cache
+F:\CSHARP-BSP\Other_Programs\Other_Programs\obj\Debug\net5.0\Other_Programs.AssemblyInfo.cs
+F:\CSHARP-BSP\Other_Programs\Other_Programs\obj\Debug\net5.0\Other_Programs.csproj.CoreCompileInputs.cache
+F:\CSHARP-BSP\Other_Programs\Other_Programs\bin\Debug\net5.0\Other_Programs.exe
+F:\CSHARP-BSP\Other_Programs\Other_Programs\bin\Debug\net5.0\Other_Programs.deps.json
+F:\CSHARP-BSP\Other_Programs\Other_Programs\bin\Debug\net5.0\Other_Programs.runtimeconfig.json
+F:\CSHARP-BSP\Other_Programs\Other_Programs\bin\Debug\net5.0\Other_Programs.runtimeconfig.dev.json
+F:\CSHARP-BSP\Other_Programs\Other_Programs\bin\Debug\net5.0\Other_Programs.dll
+F:\CSHARP-BSP\Other_Programs\Other_Programs\bin\Debug\net5.0\ref\Other_Programs.dll
+F:\CSHARP-BSP\Other_Programs\Other_Programs\bin\Debug\net5.0\Other_Programs.pdb
+F:\CSHARP-BSP\Other_Programs\Other_Programs\obj\Debug\net5.0\Other_Programs.dll
+F:\CSHARP-BSP\Other_Programs\Other_Programs\obj\Debug\net5.0\ref\Other_Programs.dll
+F:\CSHARP-BSP\Other_Programs\Other_Programs\obj\Debug\net5.0\Other_Programs.pdb
+F:\CSHARP-BSP\Other_Programs\Other_Programs\obj\Debug\net5.0\Other_Programs.genruntimeconfig.cache
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\bin\Debug\net5.0\Other_Programs.exe
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\bin\Debug\net5.0\Other_Programs.deps.json
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\bin\Debug\net5.0\Other_Programs.runtimeconfig.json
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\bin\Debug\net5.0\Other_Programs.runtimeconfig.dev.json
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\bin\Debug\net5.0\Other_Programs.dll
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\bin\Debug\net5.0\ref\Other_Programs.dll
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\bin\Debug\net5.0\Other_Programs.pdb
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\obj\Debug\net5.0\Other_Programs.csproj.AssemblyReference.cache
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\obj\Debug\net5.0\Other_Programs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\obj\Debug\net5.0\Other_Programs.AssemblyInfoInputs.cache
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\obj\Debug\net5.0\Other_Programs.AssemblyInfo.cs
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\obj\Debug\net5.0\Other_Programs.csproj.CoreCompileInputs.cache
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\obj\Debug\net5.0\Other_Programs.dll
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\obj\Debug\net5.0\ref\Other_Programs.dll
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\obj\Debug\net5.0\Other_Programs.pdb
+E:\Git\MyWork\Guess The Number(C#)\Other_Programs\obj\Debug\net5.0\Other_Programs.genruntimeconfig.cache
