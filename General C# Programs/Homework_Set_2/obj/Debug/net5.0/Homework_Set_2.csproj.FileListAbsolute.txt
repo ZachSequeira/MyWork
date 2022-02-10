@@ -1,0 +1,16 @@
+F:\CSHARP-BSP\Homework_Set_2\bin\Debug\net5.0\Homework_Set_2.exe
+F:\CSHARP-BSP\Homework_Set_2\bin\Debug\net5.0\Homework_Set_2.deps.json
+F:\CSHARP-BSP\Homework_Set_2\bin\Debug\net5.0\Homework_Set_2.runtimeconfig.json
+F:\CSHARP-BSP\Homework_Set_2\bin\Debug\net5.0\Homework_Set_2.runtimeconfig.dev.json
+F:\CSHARP-BSP\Homework_Set_2\bin\Debug\net5.0\Homework_Set_2.dll
+F:\CSHARP-BSP\Homework_Set_2\bin\Debug\net5.0\ref\Homework_Set_2.dll
+F:\CSHARP-BSP\Homework_Set_2\bin\Debug\net5.0\Homework_Set_2.pdb
+F:\CSHARP-BSP\Homework_Set_2\obj\Debug\net5.0\Homework_Set_2.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSHARP-BSP\Homework_Set_2\obj\Debug\net5.0\Homework_Set_2.AssemblyInfoInputs.cache
+F:\CSHARP-BSP\Homework_Set_2\obj\Debug\net5.0\Homework_Set_2.AssemblyInfo.cs
+F:\CSHARP-BSP\Homework_Set_2\obj\Debug\net5.0\Homework_Set_2.csproj.CoreCompileInputs.cache
+F:\CSHARP-BSP\Homework_Set_2\obj\Debug\net5.0\Homework_Set_2.dll
+F:\CSHARP-BSP\Homework_Set_2\obj\Debug\net5.0\ref\Homework_Set_2.dll
+F:\CSHARP-BSP\Homework_Set_2\obj\Debug\net5.0\Homework_Set_2.pdb
+F:\CSHARP-BSP\Homework_Set_2\obj\Debug\net5.0\Homework_Set_2.genruntimeconfig.cache
+F:\CSHARP-BSP\Homework_Set_2\obj\Debug\net5.0\Homework_Set_2.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+F:\CSHARP-BSP\BSP_CS_Programs\bin\Debug\net5.0\BSP_CS_Programs.exe
+F:\CSHARP-BSP\BSP_CS_Programs\bin\Debug\net5.0\BSP_CS_Programs.deps.json
+F:\CSHARP-BSP\BSP_CS_Programs\bin\Debug\net5.0\BSP_CS_Programs.runtimeconfig.json
+F:\CSHARP-BSP\BSP_CS_Programs\bin\Debug\net5.0\BSP_CS_Programs.runtimeconfig.dev.json
+F:\CSHARP-BSP\BSP_CS_Programs\bin\Debug\net5.0\BSP_CS_Programs.dll
+F:\CSHARP-BSP\BSP_CS_Programs\bin\Debug\net5.0\ref\BSP_CS_Programs.dll
+F:\CSHARP-BSP\BSP_CS_Programs\bin\Debug\net5.0\BSP_CS_Programs.pdb
+F:\CSHARP-BSP\BSP_CS_Programs\obj\Debug\net5.0\BSP_CS_Programs.csproj.AssemblyReference.cache
+F:\CSHARP-BSP\BSP_CS_Programs\obj\Debug\net5.0\BSP_CS_Programs.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSHARP-BSP\BSP_CS_Programs\obj\Debug\net5.0\BSP_CS_Programs.AssemblyInfoInputs.cache
+F:\CSHARP-BSP\BSP_CS_Programs\obj\Debug\net5.0\BSP_CS_Programs.AssemblyInfo.cs
+F:\CSHARP-BSP\BSP_CS_Programs\obj\Debug\net5.0\BSP_CS_Programs.csproj.CoreCompileInputs.cache
+F:\CSHARP-BSP\BSP_CS_Programs\obj\Debug\net5.0\BSP_CS_Programs.dll
+F:\CSHARP-BSP\BSP_CS_Programs\obj\Debug\net5.0\ref\BSP_CS_Programs.dll
+F:\CSHARP-BSP\BSP_CS_Programs\obj\Debug\net5.0\BSP_CS_Programs.pdb
+F:\CSHARP-BSP\BSP_CS_Programs\obj\Debug\net5.0\BSP_CS_Programs.genruntimeconfig.cache
